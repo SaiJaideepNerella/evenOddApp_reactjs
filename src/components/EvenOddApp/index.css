@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  min-height: 350px;
+  border-radius: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin: 100px;
+}
+.count-val {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 600;
+}
+.para-even-odd {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.button {
+  background-color: #ffffff;
+  color: #1e293b;
+  font-family: 'Roboto';
+  border-radius: 5px;
+  border-width: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.paragraph {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
